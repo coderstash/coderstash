@@ -1,4 +1,4 @@
 coderstash
 ==========
 
-coderstash website
+Ember.js testing stuff.
